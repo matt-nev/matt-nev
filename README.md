@@ -1,4 +1,4 @@
-![](https://github.com/matt-nev/matt-nev/blob/main/banner.jpg)
+![](https://github.com/matt-nev/matt-nev/blob/main/bannerer.jpeg)
 
 # Hello Earth
 
@@ -9,12 +9,14 @@
 - Cooking new things 
 - Watching live music 
 - Reading fiction
+- Hockey - Go Blackhawks! 
 - Formula One racing 
 - Playing video games 
 
 ### **Contact:**
 - [mattnev@microsoft.com](mattnev@microsoft.com)
 - [https://www.linkedin.com/in/matt-nev/](https://www.linkedin.com/in/matt-nev/)
+
 # Professional 
 ![](https://github.com/matt-nev/matt-nev/blob/main/microsoft.png)
 
