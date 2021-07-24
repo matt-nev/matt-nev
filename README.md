@@ -1,7 +1,7 @@
 # Hello Earth
 
 ### **On GitHub I am:**
-- Learning to code through the *Microsoft Leap Program* 
+- Learning to code through the *Microsoft Leap Internal Program* 
 
 ### **I Enjoy:**
 - Cooking new things 
@@ -18,6 +18,6 @@
 
 ### **Student at *Microsoft Leap***
 
-I'm currently studying and re-skilling to become a Technical Program Manager by participating in the Microsoft Leap program. 
+I'm currently studying and re-skilling to become a Technical Program Manager by participating in the *Microsoft Leap Internal Program*. 
 
 
