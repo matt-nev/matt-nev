@@ -1,21 +1,22 @@
 # Hello Earth
 
-## **On GitHub I am:**
+### **On GitHub I am:**
 - Learning to code through the *Microsoft Leap Program* 
 
-## **I Enjoy:**
+### **I Enjoy:**
 - Cooking new things 
 - Reading fiction
 - Watching Formula One racing 
 - Playing video games 
 
-## **Contact:**
+### **Contact:**
 - [mattnev@microsoft.com](mattnev@microsoft.com)
-- [LinkedIn](https://www.linkedin.com/in/matt-nev/)
+- [https://www.linkedin.com/in/matt-nev/](https://www.linkedin.com/in/matt-nev/)
 
 # Professional 
+![](https://github.com/matt-nev/matt-nev/blob/main/microsoft.png)
 
-**Student at *Microsoft Leap***
+### **Student at *Microsoft Leap***
 
 I'm currently studying and re-skilling to become a Technical Program Manager by participating in the Microsoft Leap program. 
 
