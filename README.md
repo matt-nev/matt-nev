@@ -5,8 +5,9 @@
 
 ### **I Enjoy:**
 - Cooking new things 
+- Watching live music 
 - Reading fiction
-- Watching Formula One racing 
+- Formula One racing 
 - Playing video games 
 
 ### **Contact:**
