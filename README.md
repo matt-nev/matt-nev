@@ -1,6 +1,6 @@
 ![](https://github.com/matt-nev/matt-nev/blob/main/bannerer.jpeg)
 
-# Hello Earth
+# Hey there!
 
 ### **On GitHub I am:**
 - Learning to code through the *Microsoft Leap Internal Program* 
