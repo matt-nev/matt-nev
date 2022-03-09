@@ -1,5 +1,3 @@
-![](https://github.com/matt-nev/matt-nev/blob/main/bannerer.jpeg)
-
 # Hey there!
 
 ### **On GitHub I am:**
